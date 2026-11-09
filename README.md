@@ -1,90 +1,92 @@
- 👋 Hi there, I'm Takunda Gumbo!
+# 👨‍💻 Takunda Gumbo
+**Aspiring Software Engineer | IT Graduate & Problem Solver**
 
-** Aspiring Software Developer| Network & Hardware Enthusiast | IT Graduate**
-
-📍 Harare, Zimbabwe | 📧 [gumbotakunda3@gmail.com](mailto:gumbotakunda3@gmail.com) | 📞 0787 937 479
+📍 Harare, Zimbabwe | 📧 [gumbotakunda3@gmail.com](mailto:gumbotakunda3@gmail.com) | 📞 0787 937 479 | 🟢 Available Immediately
 
 ---
 
-### 🚀 About Me
-I am an IT professional and recent National Diploma in IT graduate from Harare Polytechnic with a strong foundation in **hardware administration, networking, and systems support**. With over a year of hands-on experience providing 1st and 2nd line support to 60+ users in a government ministry, I specialize in keeping infrastructure running smoothly, reducing downtime, and empowering staff through technology. 
+### 🎯 Objective
+Highly motivated IT Graduate with a strong academic foundation in **Software Engineering, Database Administration, and Information Security**, seeking a **Graduate Trainee or Junior Software Engineering role**. I am eager to apply my knowledge of Object-Oriented Programming (OOP), backend services, and API development to build secure, reliable, and user-centric software products. 
 
-While my core expertise lies in IT infrastructure and helpdesk support, my academic background has also equipped me with a solid understanding of software engineering, database administration, and web development.
+---
+
+### 💡 My Engineering Mindset
+I am passionate about building software that solves real-world problems. My background in IT infrastructure and security has taught me the critical importance of system reliability, data protection, and clean architecture. I am excited to transition my problem-solving skills from IT support to software development, working alongside senior engineers to build, test, and maintain robust backend services, APIs, and web applications.
 
 ---
 
 ### 🛠️ Technical Skills
 
-**🌐 Infrastructure & Networking**
-*   **Networking:** LAN/Wi-Fi Setup, IP Configuration, Network Troubleshooting, Router/Switch Basics
-*   **Hardware:** PC Assembly, Diagnostics, Printer & Scanner Maintenance, Peripheral Troubleshooting
+**💻 Software Development & Engineering**
+*   **Core Concepts:** Object-Oriented Programming (OOP), Design & Analysis of Algorithms, Software Development Lifecycle (SDLC)
+*   **Web Development:** Frontend & Backend fundamentals, API integration concepts, RESTful services
+*   **Testing & QA:** Unit testing principles, debugging, and systematic troubleshooting
 
-**💻 Systems & Administration**
-*   **OS:** Windows 10/11 Deployment & Administration, Active Directory (User Management, Group Policies)
-*   **Tools:** TeamViewer (Remote Support), Microsoft Office Suite, Data Backup & Recovery
+**🗄️ Databases & Backend**
+*   **Database Administration (DBA):** Relational database design, SQL, data validation, and integrity
+*   **Backend Concepts:** Server-side logic, data flow, and secure data handling
 
-**🛡️ Security & Support**
-*   **Endpoint Security:** Kaspersky, McAfee, Antivirus Deployment & Updates
-*   **Support:** 1st & 2nd Line Helpdesk, IT Incident Reporting, Patient User Training & Documentation
+**🛡️ Security & Infrastructure**
+*   **Information Security:** Secure coding principles, data backup & recovery, endpoint security
+*   **Systems:** Windows OS Administration, Active Directory, LAN/Wi-Fi networking
 
-**💾 Software & Development (Academic Foundation)**
-*   **Concepts:** Object-Oriented Programming (OOP), Design & Analysis of Algorithms
-*   **Technologies:** Web Development, Database Administration (DBA), Software Engineering
+---
+
+### 📂 Featured Projects
+*(Note: To stand out to recruiters, make sure you upload the code for these projects to your GitHub and link them below!)*
+
+**🔹 1. Simple Wallet/Remittance API (Mock Project)**
+*   **Description:** A basic RESTful API simulating a money transfer system. Includes endpoints for creating a user, checking balance, and transferring funds.
+*   **Tech Stack:** [Insert Language, e.g., Python/Flask, Node.js, or Java] + SQL Database.
+*   **Key Learning:** Understanding backend logic, API routing, and database transactions.
+*   **🔗 [View Code](#)** *(Replace # with your repo link)*
+
+**🔹 2. Secure User Authentication System**
+*   **Description:** A web application focusing on secure login, password hashing, and session management.
+*   **Tech Stack:** [Insert Language, e.g., PHP, Python, or JavaScript] + HTML/CSS.
+*   **Key Learning:** Applying Information Security principles to protect user data.
+*   **🔗 [View Code](#)** *(Replace # with your repo link)*
+
+**🔹 3. Labour Records Digitization Tool (From Ministry Experience)**
+*   **Description:** A script/application used to validate and convert physical data records into a structured digital database, ensuring 100% data accuracy.
+*   **Tech Stack:** Python / SQL.
+*   **Key Learning:** Data validation, database administration, and real-world problem solving.
+*   **🔗 [View Code](#)** *(Replace # with your repo link)*
 
 ---
 
 ### 💼 Professional Experience
 
-**IT Support Technician (Attachment + Retained)**
-*Ministry of Public Service, Labour and Social Welfare, Harare | Jan 2025 – Mar 2026*
-*   Provided 1st and 2nd line Helpdesk/IT support to **60+ staff** across HR, Labour Inspectorate, and Social Welfare.
-*   **Achievement:** Reduced hardware downtime by **35%** through proactive maintenance and fast troubleshooting.
-*   Managed Active Directory, password resets, antivirus updates, and monthly ICT incident reports.
-*   Delivered remote support via TeamViewer and conducted onsite troubleshooting.
-
----
-
-### 📂 Key Projects
-
-**🔹 Biometric Attendance & Digital Leave System Rollout (2025)**
-*   Supported the deployment across 3 departments.
-*   Trained **60+ staff members** on the correct usage and troubleshooting of the new digital systems.
-
-**🔹 Digitization of Labour Inspection Records (2025 - 2026)**
-*   Led the conversion of hundreds of physical paper records into secure digital formats.
-*   Validated data for accuracy and ensured proper digital archiving.
-
-**🔹 Enterprise LAN, Wi-Fi & End-User Support (2025 - 2026)**
-*   Set up and configured LAN infrastructure, assigned IP addresses, and troubleshot Wi-Fi connectivity across 3 major departments to ensure seamless operations.
+**IT Support Technician**  
+*Ministry of Public Service, Labour and Social Welfare, Harare | Jan 2025 – Mar 2026*  
+*While my day-to-day was IT support, this role honed my engineering and systems mindset:*
+*   **System Reliability:** Reduced hardware and system downtime by **35%** through proactive troubleshooting and maintenance.
+*   **Security & Data Integrity:** Managed antivirus deployments, data backups, and secure user accounts via Active Directory, ensuring sensitive government data remained protected.
+*   **Problem Solving:** Acted as the first line of defense for 60+ users, diagnosing complex system issues and documenting clear, scalable solutions.
 
 ---
 
 ### 🎓 Education
 
-**National Diploma in Information Technology**
-*Harare Polytechnic | Expected Completion: 2026*
-*   *Key Modules:* Hardware Administration, Network Administration, Operating Systems Administration, Information Security, Database Administration, Web Development.
+**National Diploma in Information Technology**  
+*Harare Polytechnic | Expected 2026*  
+*Relevant Modules for Software Engineering:*
+*   **Software Engineering (C)** & **Software Project (C)**
+*   **Object-Oriented Programming (OOP) (P)**
+*   **Database Administration (C)** & **Database Concepts (C)**
+*   **Information Security (C)** & **Computer Security (C)**
+*   **Design and Analysis of Algorithms (P)**
+*   **Web Development (C)**
 
-**National Certificate in Information Technology**
-*Harare Polytechnic | Awarded: Dec 2023*
-
----
-
-### 📈 GitHub Stats
-<!-- Note: Replace 'your-github-username' with your actual GitHub username -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Takunda's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+**National Certificate in Information Technology**  
+*Harare Polytechnic | Awarded Dec 2023*
 
 ---
 
 ### 📫 Let's Connect!
-I am always open to discussing IT infrastructure, networking projects, hardware troubleshooting, or new opportunities in IT Support and Systems Administration.
+I am ready to learn, code, and contribute to a dynamic engineering team. 
 
-*   📧 **Email:** [gumbotakunda3@gmail.com](mailto:gumbotakunda3@gmail.com)
-*   📱 **Phone:** +263 787 937 479
-*   🌍 **Location:** Harare, Zimbabwe
-
----
-*“Known for fixing issues fast, documenting clearly, and explaining solutions simply so staff can keep working without waiting for IT.”*
+- 📧 **Email:** [gumbotakunda3@gmail.com](mailto:gumbotakunda3@gmail.com)
+- 📱 **Phone:** 0787 937 479
+- 💼 **LinkedIn:** [Add your LinkedIn URL here]
+- 🐙 **GitHub:** [Add your GitHub URL here]
