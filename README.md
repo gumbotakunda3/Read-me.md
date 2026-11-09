@@ -1,6 +1,6 @@
  👋 Hi there, I'm Takunda Gumbo!
 
-**IT Support Technician | Network & Hardware Enthusiast | IT Graduate**
+** Aspiring Software Developer| Network & Hardware Enthusiast | IT Graduate**
 
 📍 Harare, Zimbabwe | 📧 [gumbotakunda3@gmail.com](mailto:gumbotakunda3@gmail.com) | 📞 0787 937 479
 
